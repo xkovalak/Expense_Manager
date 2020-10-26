@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expense_Manager</string>
+    <string name="action_settings">Settings</string>
+	<string name="history">History</string>
+	<string name="new_balance">0</string>
+	<string name="income">Income</string>
+	<string name="expense">Expense</string>
+	<string name="home">Home</string>
+	<string name="amount">Amount:</string>
+	<string name="date">Date:</string>
+</resources>
